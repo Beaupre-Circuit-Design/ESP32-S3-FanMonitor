@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Jiangsu_Guorui_Microélectronique")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/Jiangsu_Guorui_Microélectronique.kicad_sym")(options "")(descr ""))
+  (lib (name "WCH(Jiangsu_Qin_Heng)")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/WCH(Jiangsu_Qin_Heng).kicad_sym")(options "")(descr ""))
+  (lib (name "OPSCO_Optoelectronics")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/OPSCO_Optoelectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/CreativeCommons.kicad_sym")(options "")(descr ""))
+  (lib (name "Guangzhou_Aosong_Electronic_Co")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/Guangzhou_Aosong_Electronic_Co.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_BarrelJack_MountingPin")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/Connector_BarrelJack_MountingPin.kicad_sym")(options "")(descr ""))
+  (lib (name "Guangdong_Youtai_Semiconductor_Co")(type "KiCad")(uri "C:/Users/eddy/OneDrive - Beaupré/Documents/KiCad/8.0/symbols/Guangdong_Youtai_Semiconductor_Co.kicad_sym")(options "")(descr ""))
+)
